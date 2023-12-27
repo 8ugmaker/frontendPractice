@@ -1,0 +1,24 @@
+{
+  "name": "frontier-practice",
+  "version": "1.0.0",
+  "description": "for practice",
+  "main": "./index.html",
+  "scripts": {
+    "build": "webpack build --config ./webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8ugmaker/frontierPractice.git"
+  },
+  "author": "fumonster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8ugmaker/frontierPractice/issues"
+  },
+  "homepage": "https://github.com/8ugmaker/frontierPractice#readme",
+  "devDependencies": {
+    "webpack": "^5.80.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
